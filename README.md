@@ -1,2 +1,5 @@
-# blog-Univerdiad
-Es un proyecto dedicado al crecimiento de comunidad universitaria a través de un blog de eventos.
+descripcion del proyecto
+instalacion
+Requisistos
+Version
+Encargado del proyecto
